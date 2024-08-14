@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+.panel {
+    background-color: lightgray;
+    overflow: auto;
+    transition: width 0.2s ease;
+}
+
+.main-panel {
+    background-color: white;
+    flex: 2;
+}
+
+.side-panel {
+    background-color: lightblue;
+    flex: 1;
+}
+
+.resizer {
+    background-color: darkgray;
+    width: 5px;
+    cursor: ew-resize;
+}

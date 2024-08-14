@@ -8,6 +8,7 @@ import { LoginpageComponent } from './pages/loginpage/loginpage.component';
 import { SignuppageComponent } from './pages/signuppage/signuppage.component';
 import { SongsectionComponent } from './components/songsection/songsection.component';
 import { SidebarsectionComponent } from './components/sidebarsection/sidebarsection.component';
+import { HehComponent } from './pages/heh/heh.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { SidebarsectionComponent } from './components/sidebarsection/sidebarsect
     LoginpageComponent,
     SignuppageComponent,
     SongsectionComponent,
-    SidebarsectionComponent
+    SidebarsectionComponent,
+    HehComponent
   ],
   imports: [
     BrowserModule,
