@@ -26,7 +26,7 @@ export class SongsectionComponent implements AfterViewInit {
       title: 'One Last Time',
       artist: 'Ariana Grande',
       coverImageUrl: 'https://res.cloudinary.com/dlt4ash36/image/upload/v1700793770/play-song_qvjwqd.jpg',
-      audioUrl: 'https://res.cloudinary.com/dlt4ash36/video/upload/v1700895570/Raatan-Lambiyan_xd4cld.mp3'
+      audioUrl: 'https://res.cloudinary.com/dq76uikpj/video/upload/v1726319474/16373004720917512211.mp3'
     },
     {
       title: 'One Time',

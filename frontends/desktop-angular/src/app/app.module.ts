@@ -25,6 +25,6 @@ import { HehComponent } from './pages/heh/heh.component';
     AppRoutingModule
   ],
   providers: [],
-  bootstrap: [HomepageComponent]
+  bootstrap: [SongsectionComponent]
 })
 export class AppModule { }
